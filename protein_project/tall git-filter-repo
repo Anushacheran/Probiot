@@ -1,0 +1,30 @@
+[33mcommit eebdd23102aae2d27e5c05d3e194c5a4bd39237e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Anushacheran <anushacheran23@example.com>
+Commit: Anushacheran <anushacheran23@example.com>
+
+    Save work before changing commit history
+
+[33mcommit 2696fe35eab9da7a4d4aa0274268af038358fccd[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 939afc2 e6f1c90
+Author: Anushacheran <anushacheran23@example.com>
+Commit: Anushacheran <anushacheran23@example.com>
+
+    Merge remote changes and conclude merge
+
+[33mcommit 939afc2691c129bea4d2a2c8826234e87109da3d[m
+Author: Anushacheran <anushacheran23@example.com>
+Commit: Anushacheran <anushacheran23@example.com>
+
+    Add full Probiot project
+
+[33mcommit e6f1c906908c9d1de6026973342e83c7d3831172[m
+Author: Anushacheran <anushacheran23@gmail.com>
+Commit: GitHub <noreply@github.com>
+
+    Create README.md
+
+[33mcommit 849e2a375650f5afdec08f95f16b80ea69fa9b98[m
+Author: Anushacheran <anushacheran23@gmail.com>
+Commit: GitHub <noreply@github.com>
+
+    Initial commit
